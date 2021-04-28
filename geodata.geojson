@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Afghanistan",
+        "short_name": "AF",
+        "region": "Asia & Pacific",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "British Indian Ocean Territory",
+        "short_name": "IO",
+        "region": "Asia & Pacific",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.876519,
+          -6.343194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "India",
+        "short_name": "IN",
+        "region": "Asia & Pacific",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96288,
+          20.593684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maldives",
+        "short_name": "MV",
+        "region": "Asia & Pacific",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22068,
+          3.202778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oman",
+        "short_name": "OM",
+        "region": "Middle east",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.923255,
+          21.512583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pakistan",
+        "short_name": "PK",
+        "region": "Asia & Pacific",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.345116,
+          30.375321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seychelles",
+        "short_name": "SC",
+        "region": "Africa",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.491977,
+          -4.679574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Somalia",
+        "short_name": "SO",
+        "region": "Arab States",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.199616,
+          5.152149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sri Lanka",
+        "short_name": "LK",
+        "region": "Asia & Pacific",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yemen",
+        "short_name": "YE",
+        "region": "Middle east",
+        "region_short": "WAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.516388,
+          15.552727
+        ]
+      }
+    }
+  ]
+}
